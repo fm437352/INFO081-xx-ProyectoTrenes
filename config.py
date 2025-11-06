@@ -1,1 +1,1 @@
-donde convivan los archivos correspondientes a ventanas. Deben existir al menos dos ventanas (o pestañas).
+ donde se encuentren todas las entidades a utilizar, como trenes, estaciones, pasajeros, etc. Debe existir al menos una de estas clases, al menos con algunos atributos necesarios.
