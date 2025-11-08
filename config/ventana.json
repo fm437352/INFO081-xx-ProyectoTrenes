@@ -1,0 +1,10 @@
+{
+"ancho": 1024,
+"altura": 768,
+"titulo": "Simulación EFE",
+"redimensionable":{
+  "ancho": false,
+  "altura": false,
+}
+"tema": "claro"
+}
