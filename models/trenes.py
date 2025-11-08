@@ -5,7 +5,7 @@ class Tren:
         self.capacidad_maxima = capacidad
         self.cantidad_pasajeros = 0
 
-    def pasajeros_abordo(self, cantidad):
+    def pasajeros_que_abordan(self, cantidad):
         if self.cantidad_pasajeros + cantidad <= self.capacidad_maxima:
             self.cantidad_pasajeros += cantidad
         else:
