@@ -9,7 +9,7 @@ pasajeros en los horarios disponibles
 3. - Cantidad de personas activas: Muestra el número total de personas actualmente dentro de la simulación.  
    Se actualiza a medida que las personas inician o finalizan sus recorridos entre estaciones.
    - Cantidad de trenes activos:  Muestra el número total de trenes actualmente en movimiento dentro de la simulación.  
-   Se actualiza a medida que los trenes terminen sus recorridos o empiecen.
+   Se actualiza a medida que los trenes terminen sus recorridos o empiecen. -----------
 
 De esta manera el operario conociendo estos datos, puede tomar decisiones de manera eficaz, como por ejemplo poner mas trenes
 si el flujo de personas es más alto. 
